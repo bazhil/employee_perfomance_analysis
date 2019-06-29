@@ -4,6 +4,7 @@ from mimesis import Generic
 from mimesis import locales
 import random
 
+
 # Создаем фейковые данные российского формата
 g = Generic('ru')
 
